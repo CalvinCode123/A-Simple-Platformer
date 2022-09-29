@@ -1,6 +1,7 @@
 # A-Simple-Platformer
 
 This project was completed on one of my old GitHub account and has been imported onto this one.
+
 A simple platformer coded in java using the Eclipse IDE
 
 [![YouTube](https://img.youtube.com/vi/BknMMHymF6k/0.jpg)](https://www.youtube.com/watch?v=BknMMHymF6k)
